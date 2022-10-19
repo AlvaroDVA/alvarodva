@@ -1,4 +1,4 @@
-<img src="resources/images/banner.png" width="100%">
+<img src="resources/images/banner.png">
 
 ##  ✨ Bienvenido, soy Álvaro Del Val Arce ✨ <img src="resources/images/octogato.png" width="240" height="300" align=right>
 
