@@ -1,4 +1,7 @@
-##  ✨ Bienvenido, soy Álvaro Del Val Arce ✨
+<img src="resources/images/banner.png" width="100%">
+
+##  ✨ Bienvenido, soy Álvaro Del Val Arce ✨ <img src="resources/images/octogato.png" width="240" height="300" align=right>
+
 
 Soy un joven entusiasta de la informatica que está empezando en el mundillo del desarrollo de software y la programación 🤓.
 
