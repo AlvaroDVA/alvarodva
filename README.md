@@ -5,7 +5,7 @@
 
 Soy un joven entusiasta de la informatica que está empezando en el mundillo del desarrollo de software y la programación 🤓.
 
-Actualmente, estoy cursando el primer año de Desarrollo de Aplicaciones Multiplataforma 💻 en el instituto **[IES LUIS VIVES]** en Leganes, Madrid.
+Actualmente, estoy cursando el segundo año de Desarrollo de Aplicaciones Multiplataforma 💻 en el instituto **[IES LUIS VIVES]** en Leganes, Madrid.
 
 [IES LUIS VIVES]: https://www.iesluisvives.es/
 
